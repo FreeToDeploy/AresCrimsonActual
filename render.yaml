@@ -1,5 +1,5 @@
 services:
 - type: web
-  name: Blank100
+  name: FreeToDeploy/Blank100
   env: docker
   plan: free
